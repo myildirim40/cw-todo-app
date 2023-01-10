@@ -13,7 +13,7 @@ terraform {
   }
 }
 
-rovider "aws" {
+provider "aws" {
   region = "us-east-1"
 }
 
